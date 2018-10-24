@@ -1,1 +1,27 @@
-body [color: green; background: grey]
+header section{
+    color: ghostwhite
+    text-align: "center"
+}
+article section{
+    background-color: rgb(0, 0, 0);
+    width: 50%;
+    float: left;
+}
+section h2{
+    background-color:rgb(0, 0, 0)
+    color: rgb(223, 235, 223)
+}
+
+aside div{ background-color: beige
+}
+
+
+
+
+
+
+article :nth-child(2){
+    background-color: rgb(223, 235, 223);
+    width: 50%;
+    float: left;
+}
