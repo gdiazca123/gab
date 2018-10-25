@@ -1,11 +1,11 @@
-article{
-    background: green;
+body > div{
+    background: rgb(255, 255, 255);
     position:absolute;
     width: 200px;
     height: 200px;
 }
-div{
-    background: red;
+div > div{
+    background: rgb(31, 28, 238);
     position: relative;
     width: 50px;
     height: 50px;
